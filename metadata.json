@@ -1,0 +1,7 @@
+{
+  "name": "YatraConnect",
+  "description": "A real-time bus tracking and multilingual AI transport assistant for passengers and drivers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
